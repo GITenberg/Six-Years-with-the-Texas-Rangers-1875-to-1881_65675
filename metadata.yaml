@@ -1,0 +1,30 @@
+_repo: Six-Years-with-the-Texas-Rangers-1875-to-1881_65675
+_version: 0.0.1
+alternative_title: 6 Years with the Texas Rangers, 1875 to 1881
+creator:
+  author:
+    agent_name: Gillett, James B.
+    birthdate: 1856
+    deathdate: 1937
+    gutenberg_agent_id: '53454'
+    url: http://www.gutenberg.org/2009/agents/53454
+    wikipedia: https://en.wikipedia.org/wiki/James_B._Gillett
+description: ''
+gutenberg_issued: '2021-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65675'
+  lccn: '22002108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Texas -- History -- 1846-1950'
+- !lcc 'F350.5'
+- !lcsh 'Frontier and pioneer life -- Texas'
+- !lcsh 'Gillett, James B., 1856-1937'
+- !lcsh 'Texas Rangers'
+- GITenberg
+title: Six Years with the Texas Rangers, 1875 to 1881
+url: http://www.gutenberg.org/ebooks/65675
